@@ -1,0 +1,25 @@
+{
+    "name": "luculent-new-bs4-page",
+    "title": "Luculent New Bootstrap 4 Page",
+    "description": "Create a new HTML file with a Bootstrap 4 template that has a navbar.",
+    "homepage": "https://github.com/ELuculent/Bootstrap-4-Shell---Brackets",
+    "version": "1.0.0",
+    "author": "Luculent",
+    "license": "",
+    "engines": {
+        "brackets": ">=0.32.0"
+    },
+    "keywords": [
+        "generate",
+        "template",
+        "theme",
+        "bootstrap",
+        "CSS",
+		"snippet",
+		"code",
+		"inline",
+		"new",
+		"file",
+		"html"
+    ]
+}
